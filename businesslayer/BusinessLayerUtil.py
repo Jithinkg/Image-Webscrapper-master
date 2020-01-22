@@ -7,7 +7,7 @@ Created on Tue Jan  7 15:24:49 2020
 #inside the business layer we are importing data layer library as well
 from scrapperImage.ScrapperImage import ScrapperImage
 
-class BusinessLayer:
+class BusinessLayer: 
     
     keyword=""
     fileLoc=""
